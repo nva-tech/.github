@@ -4,7 +4,9 @@
 
 <!-- Then up to two short paragraphs or five bullets: what changed and why. Name another issue by bare id only: a magic word before it links it in Linear. -->
 
-**Ticket** <!-- CDX-XXX, this PR's own issue, or None — reason -->
-**Test plan** <!-- how you checked it works, or None — reason -->
-**Risk** <!-- Low / Medium / High: what could regress, what to watch, or None — reason -->
+**Ticket** <!-- [CDX-XXX](https://linear.app/nvagp-cdx/issue/CDX-XXX): this PR's own issue as a link, or None — reason. Every other issue stays a bare id. -->
+**Test plan** <!-- one line: how you checked it works, or None — reason -->
+**Risk** <!-- Low / Medium / High, then one line: what could regress, what to watch; or None — reason -->
 **Out of scope** <!-- what a reader might expect here and is not, or None -->
+
+<!-- Each line above stays one line. A field that outgrows it gets a short summary there, then a --- rule and its own heading below, e.g. "### Test plan" with a checkbox for each check still to pass. -->
