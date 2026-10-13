@@ -4,19 +4,17 @@
 
 <!-- One sentence, no heading: what this PR is for. -->
 
-### What changed
+### Summary
 
 <!-- Up to five bullets, or two short paragraphs: what changed and why. Name another issue by bare id only: a magic word before it links it in Linear. -->
 
 ---
 
+### Details
+
 **Risk:** <!-- Low / Medium / High, then one line: what could regress, what to watch -->
 **Out of scope:** <!-- one line: what a reader might expect here and is not, or None -->
 
-### Test plan
+**Test plan:** <!-- a receipt of how you verified it, not steps to follow: one line, or a few bullets under it. Or None — reason. -->
 
-<!-- The author's own checks, one checkbox each: [x] with what it showed, [ ] still to run before ready. Or None — reason. A reviewer's or QA's checks go on the Linear issue. -->
-
-### Notes
-
-<!-- Optional: evidence, numbers, decisions a reviewer of the diff needs. History goes on the Linear issue. Delete if empty. -->
+**Notes:** <!-- optional: evidence, numbers or decisions a reviewer of the diff needs. Delete if empty. -->
