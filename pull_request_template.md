@@ -2,11 +2,13 @@
 
 **Ticket:** <!-- [CDX-XXX](https://linear.app/nvagp-cdx/issue/CDX-XXX): this PR's own issue as a link, or None — reason. Put the id in the title or branch too. -->
 
-<!-- One sentence, no heading: what this PR is for. -->
+<!-- One sentence, no heading: what this PR does. -->
+
+**Why:** <!-- One sentence: the problem it solves or what it unblocks, in words a reader outside the work follows. Not a restatement of the line above. -->
 
 ### Summary
 
-<!-- Up to five bullets, or two short paragraphs: what changed and why. Name another issue by bare id only: a magic word before it links it in Linear. -->
+<!-- Up to five bullets, or two short paragraphs: how it does it. Name another issue by bare id only: a magic word before it links it in Linear. -->
 
 ---
 
